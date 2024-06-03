@@ -1,4 +1,4 @@
-# AiToolsHandIn
+# Ai Tools Hand In Repository
 
 In the GA folder is is the codes for running the GA. First run make in the folder then run the python scripts which call the GA. Check the logs folder for the logs based on which test is run.
 
